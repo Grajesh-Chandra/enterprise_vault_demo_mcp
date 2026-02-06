@@ -1,0 +1,14 @@
+# Build artifacts
+/target
+
+# Working configuration files (ignored - see configs/ for examples)
+config.json
+bridge_config.json
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
